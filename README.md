@@ -8,7 +8,7 @@ Let's duplicate an image using a given HTML page, [`index.html`](index.html), an
 
 ### Explore Mode
 
-**Challenge #1.1**: Fork this repo and modify[index.html](index.html) and add your own CSS to make it look like the image above. Your CSS should be in a separate file called `styles.css`. 
+**Challenge #1.1**: Fork this repo and modify [index.html](index.html) and add your own CSS to make it look like the image above. Your CSS should be in a separate file called `styles.css`. 
 **Goal #1.1**: Add a custom stylesheet to `index.html`.
 
 **Challenge #1.2**: Make sure your project is safe! Create a git repository containing your project files and upload it to Github.
